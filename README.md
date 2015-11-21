@@ -1,7 +1,10 @@
 # tensorflow-deep-learning
 
 Googles tensorflow program utilizes deep learning techniques (meachine learning) for big data analysis.
-This repository (tensorflow-deep-learning) hosts and collects examples for tensorflow.
+This WIKI and repository (tensorflow-deep-learning) hosts and collects examples for tensorflow.
+Please read more on [https://github.com/tobigithub/tensorflow-deep-learning/wiki](https://github.com/tobigithub/tensorflow-deep-learning/wiki)
+----
+
 
 
 
