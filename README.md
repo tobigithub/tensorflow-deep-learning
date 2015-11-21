@@ -1,2 +1,6 @@
 # tensorflow-deep-learning
-google tensorflow deep learning for big data examples
+
+Googles tensorflow program utilizes deep learning techniques (meachine learning) for big data analysis.
+This repository (tensorflow-deep-learning) hosts and collects examples for easy use.
+
+
