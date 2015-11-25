@@ -26,7 +26,7 @@ def DisplayFractal(a, fmt='jpeg'):
   PIL.Image.fromarray(a).save(f, fmt)
   display(Image(data=f.getvalue()))
 
-  sess = tf.InteractiveSession()
+sess = tf.InteractiveSession()
 
 # Use NumPy to create a 2D array of complex numbers on [-2,2]x[-2,2]
 
